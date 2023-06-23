@@ -1,4 +1,4 @@
-import os
+import os,platfrom
 os.system('clear')
 print(' \033[1;97m Checking For Update...')
 os.system('git pull --quiet 2>/dev/null')
