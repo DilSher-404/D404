@@ -1,5 +1,5 @@
 # D404
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/DilSher-404)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/dilsher.404)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923259678489)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-DilSher-dimgray?style=flat-square&logo=github)](https://github.com/DilSher-404)<br> [![Facebook](https://img.shields.io/badge/Facebook-DilSher-blue?style=flat-square&logo=facebook)](https://www.facebook.com/dilsher.404)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-DilSher-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923259678489)
 
 
 <h2 align="center">  FB CLONING TOOL </h2>
@@ -18,4 +18,4 @@
 
 
  ___This Tools is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923259678489)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-DilSher-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923259678489)
