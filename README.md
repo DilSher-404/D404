@@ -13,7 +13,7 @@
 - `rm -rf D404`
 - `git clone --depth=1 https://github.com/DilSher-404/D404.git`
 - `cd D404`
-- `python D404.py`
+- `python D404.so`
 
 
 
